@@ -1,21 +1,3 @@
-#EXTINF:-1 group-title="Powered By Shuvo" tvg-
-
 #EXTM3U
-
-logo="https://i.imgur.com/rTH9cWg.png", Shuvo Tv
-
-https://i.imgur.com/KustFY1.mp4
-
-#https://i.imgur.com/KustFY1.mp4
-
-https://i.imgur.com/KustFY1.mp4
-
-https://i.imgur.com/KustFY1.mp4
-
-https://i.imgur.com/KustFY1.mp4
-
-#EXTINF:-1 group-title="Powered By Hasan" tvg-
-
-logo="https://i.imgur.com/rTH9cWg.png", Btv
-
-https://i.imgur.com/rTH9cWg.png
+#EXTINF:-1 group-title="Shuvo" tvg-logo="",Deepto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
