@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Powered By Shuvo" tvg-logo="https://i.postimg.cc/qqh6Lchn/B612-20230212-163525-378.jpg",SHUVO
-https://i.postimg.cc/qqh6Lchn/B612-20230212-163525-378.jpg
+
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/0yCfFpVS/1200px-Rtv-bangladesh-svg.png",R-TV
@@ -19,3 +19,4 @@ http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
 #EXTINF:-1 group-title="Kolkata" tvg-logo="",Photoshop
 https://i.imgur.com/JsBDCqF.mp4
 
+#EXTINF:-1 group-title="Movie" tvg-logo="",Hindi
