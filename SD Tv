@@ -1,4 +1,8 @@
 #EXTM3U
+
+EXTINF:-1 group-title="Powered By Shuvo" tvg-logo="https://i.postimg.cc/qqh6Lchn/B612-20230212-163525-378.jpg",SHUVO
+
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/0yCfFpVS/1200px-Rtv-bangladesh-svg.png",RTv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 
