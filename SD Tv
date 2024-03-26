@@ -27,3 +27,6 @@ http://114.130.96.165:8080/1406/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Kolkata" tvg-logo="https://i.postimg.cc/dV00fvrK/Sony-Aath-new.png",Sony-aath
 https://edge4.bioscopelive.com/hls/anonymous/bDKdwbk0Kc3IKhmbWb5nOA/1711372394/live-sony-aath-sd.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/CxhJzmBN/Sony-Max-new.png",Sony-Max
+https://edge4.bioscopelive.com/hls/anonymous/yNGYmBySxQyPxkIzoj_ZnQ/1711431783/live3-sony-max-sd.m3u8
